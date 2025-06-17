@@ -19,7 +19,7 @@ This mini project uses SQL + Power BI to build an e-commerce sales dashboard, in
 - `*.csv` – Input sample data files
 
 ## 📷 Preview:
-![Dashboard Screenshot](dashboard-screenshot.png)
+https://github.com/PraveenMADataAnalyst/Flipkart_Sales-Powerbi_Dashboard/blob/9f88cc1406a4035dfd8e1d27eadfa23205b97bd8/Power%20BI%20Desktop%2017-06-2025%2003_00_38%20PM.png
 
 ---
 📌 Created by: Praveen.M.A
